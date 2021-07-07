@@ -11,5 +11,5 @@
 本体ファイルは　https://github.com/Saccubus/Saccubus1
 にございます。
 
-## ソフトウェアライセンス
+## OSSライセンス
 このパッチファイルは本家ソフトウェアのGPL 3及び2-clause BSD licenseのデュアルライセンスのもとで提供されています。
